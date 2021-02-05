@@ -1,0 +1,51 @@
+*Create a thread with the #treasury tag, and any other threads that apply*
+
+**Date of Proposal**
+
+**Grantee Info**
+
+- What your interest in working on this project and on Edgeware?
+- Are there any potential conflicts of interest?
+- To who do these payments go?
+    - For building, who will be handling what?
+    - What's the team's background and expertise? Please provide links to Github and or other links to social media if possible
+
+**What is the historical context of this proposal?**
+
+1. What previous actions or community discussion does this proposal relate to?
+2. Does it have any impacts on future actions to note?
+
+**Problem Statement and Proposed Solution**
+
+1. Evidence for that Solution
+2. Who does this solution help?
+
+**Describe, if relevant, the Milestone Structure of goals and disbursements.**
+
+**Fill in your info below**
+
+Milestone One : (ex. delivery of something) - Est Delivery Date - Amount :
+
+Milestone Two : (ex. delivery of a mobile app)  - Est Delivery Date - Amount :
+
+***Once the proposal is accepted by the council, [submit the related on-chain spend proposal with XXXX Metadata?.](https://docs.edgewa.re/understanding-edgeware/treasury#propose-the-spend-on-chain) The treasury issues one or several payments to the address on the application.***
+
+**Financial Details for all Proposed Transfers**
+
+1. What are the Addresses of the fund recipients?
+2. Who will be managing the funds, how can we contact them?
+3. How will the manager of the funds report on status proactively? 
+
+**Progress Updates**
+
+**Open review participation requires an on-chain Edgeware Identity, a GitHub account, and the evaluation must be submitted within 10 days after the milestone review request was received on Github.** Milestone evaluations are reviewed by the Edgeware Council. Milestone evaluations are merged by default barring some content-grounded reason for denying the merge. 
+
+In the same thread on Commonwealth, fill in this section of [the template](https://github.com/w3f/Grant-Milestone-Delivery/blob/master/evaluations/evaluation-template.md) with the details of your evaluation.
+
+- **Example Evaluation**
+
+**Instructions for Councillors / Community.** Add a comment or review as replies to the thread, which contains the evaluated milestone delivery. 
+
+This comment should contain a quick summary of your finding as well as link to the full evaluation. Councillors can approve a pull request to accept the deliverable, continue to issue remarks or change requests, or reject to review the proposal further.
+
+**Proposed License: GPL3**
